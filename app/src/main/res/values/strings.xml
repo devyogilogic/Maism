@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MAISM</string>
+
+    <string-array name="arCity">
+        <item>Jaipur1</item>
+        <item>Jaipur2</item>
+        <item>Jaipur3</item>
+        <item>Jaipur4</item>
+        <item>Jaipur5</item>
+        <item>Jaipur6</item>
+    </string-array>
+</resources>

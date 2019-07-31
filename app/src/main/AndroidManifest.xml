@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="maism.app.maism">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".A2_Layout" />
+        <activity android:name=".A3_Layout" />
+        <activity android:name=".A4_Layout" />
+        <activity android:name=".A5_Layout" />
+        <activity android:name=".A6_Register" />
+        <activity android:name=".A8_Register" />
+        <activity android:name=".B1_Hello"></activity>
+        <activity android:name=".B2_Add" />
+        <activity android:name=".Control1.E1_VerticalScroll" />
+        <activity android:name=".Control1.E2_HorizontalScroll" />
+        <activity android:name=".B5_Switch" />
+        <activity android:name=".B6_Hello_List" />
+        <activity android:name=".B7_Toggle" />
+        <activity android:name=".B8_List" />
+        <activity android:name=".B9_Spinner" />
+        <activity android:name=".B10_List" />
+        <activity android:name=".Control1.E7_CheckBox" />
+        <activity android:name=".Control1.E6_Calc_RadioButton" />
+        <activity android:name=".Control1.E10_DatePicker" />
+        <activity android:name=".Control1.E11_TimePicker" />
+        <activity android:name=".Control1.E12_NumberPicker" />
+        <activity android:name=".Control1.E13_RatingBar" />
+        <activity android:name=".Control1.E14_SeekBar" />
+        <activity android:name=".Control1.E20_AlertDialog" />
+        <activity android:name=".Control1.E24_ListView" />
+        <activity android:name=".Control1.E26_AutoText" />
+        <activity android:name=".Control1.E25_ListViewDialog" />
+        <activity android:name=".Control1.E27_MultiAutoText" />
+        <activity android:name=".Control1.E43_ListViewMulti"></activity>
+    </application>
+
+</manifest>

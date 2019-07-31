@@ -1,0 +1,218 @@
+Layout Folder
+    A1_Layout
+    A2_Layout
+    A3_Layout
+    A4_Layout
+    A5_Layout
+    A6_Layout
+    A7_Layout
+    A8_Layout
+
+    B1_Home
+    B2_Home
+    B3_Home
+
+    C1_Login
+    C2_Login
+    C3_Login
+
+    D1_Register
+    D2_Register
+    D3_Register
+
+Control1 Folder
+
+E1_VerticalScroll  -- Done
+E2_HorizontalScroll -- Done
+E3_Hello -- Done
+E4_Add -- Done
+E5_Calc -- Done
+E6_Calc_RadioButton   -- Done
+E7_CheckBox  -- Done
+E8_Switch  -- Done
+E9_Toggle -- Done
+E10_DatePicker -- Done
+E11_TimePicker  -- Done
+E12_NumberPicker  -- Done
+E13_RatingBar  -- Done
+E14_SeekBar  -- Done
+E15_ProgressBar
+E16_ProgressDialog
+E17_SearchView
+E18_ZoomButton
+E19_ZoomControl
+E20_AlertDialog -- Done
+E21_Spinner -- Done
+E22_Spinner -- Done
+E23_ListView -- Done
+E24_ListView  -- Done
+E25_ListViewDialog  -- Done
+E26_AutoText  -- Done
+E27_MultiAutoText
+
+Control2 Folder
+
+E30_GridView
+E31_GridViewGallery
+E33_GalleryControl
+E35_OptionMenu
+E36_PopupMenu
+E37_ContextMenu
+E38_SharedPreferences
+E39_InternalStorageFileCreate
+E40_InternalStorageFileCreate
+E41_ExternalStorageFileCreate
+E42_ExternalStorageFileCreate
+E43_ListViewMulti
+
+
+
+Control3 Folder
+F1_WebView
+F1A_WebView
+F2_ImageSwitcher
+F2_ImageSwitcher.txt
+F4_ViewStub
+F5_AsyncTask
+F6_PlayVideo
+F7_PlayAudio
+F8_PlayAudio
+
+
+
+SqLite Folder 
+Sq1_InsertSingle
+Sq2_ReadSingle
+Sq3_Spinner
+Sq4_ListView
+Sq5_AutoCompleteText
+Sq6_AutoCompleteMultiple
+Sq7_GridView
+Sq8_MultipleInsert
+Sq9_ReadMultiple
+Sq10_Search
+Sq11_AdvanceSearch
+Sq12_Register
+Sq13_Login
+Sq14_Home
+Sq15_EditProfile
+Sq16_ChangePassword
+Sq17_Logout
+Sq18_ContactUs
+
+
+SQLServer
+
+Sql1_InsertData
+Sql2_ListView
+Sql3_Spinner
+Sql4_AutoComplete
+Sql5_MultiAutoComplete
+Sql6_GridView
+Sql7_InsertMultiData
+Sql8_ListViewMulti
+Mod1_Register
+Mod2_Login
+Mod3_Home
+Mod4_EditProfile
+Mod4A_Products
+Mod5_QuickSearch
+Mod6_AdvanceSearch
+Mod7_ContactUs
+Mod8_Album
+Mod9_Gallery
+Mod10_AddToCart
+Mod11_BuyProduct
+Mod12_ViewCart
+Mod13_MyOrders
+Mod14_ReviewProduct
+Mod15_RatingProduct
+Mod16_ChangePassword
+
+
+
+ASP Folder
+
+ASP1_InsertData
+ASP1_prec
+ASP2_ListView
+ASP2_ListView_Prec
+ASP3_Register
+ASP4_LogIn
+ASP5_Home
+ASP6_EditProfile
+ASP7_A_Products
+ASP8_QuickSearch
+ASP9_AdvanceSearch
+ASP10_ContactUs
+ASP11_Album
+ASP12__Gallery
+ASP13_AddToCart
+ASP13_AddToCart.txt
+ASP14_Myorder
+ASP15_BuyNow
+ASP16_Filter
+ASP17_SellProduct
+ASP18_MyCart
+    
+
+PHPApi Folder
+
+PHPApi
+Php1_InsertData
+Php2_ListView
+Php3_Spinner
+Php4_AutoCompelete
+Php5_MultiAutoComplete
+Php6_GridView
+Php8_ListViewMulti
+PhpM1_Register
+PhpM2_Login
+PhpM3_Home
+PhpM4_EditProfile
+PhpM5_ChangePassword
+PhpM6_Logout
+PhpM7_Products
+PhpM9_SearchQuick
+PhpM10_SearchAdvance
+PhpM11_AddToCart
+PhpM12_ContactUs
+PhpM13_Album
+PhpM14_Gallery
+PhpM15_SearchAdvance
+
+
+Advance Folder
+
+H1_PagerAdapter
+H1_tab1
+H1_tab2
+H1_tab3
+H1_TabLayout
+H1_TabLayout
+H2_NavigationDrawer
+H2_NDBaseActivity
+H3_RecycleView
+MyRecycleViewAdapterClass
+
+
+Hardware Folder
+G1_BatteryLevel
+G2_BlueTooth
+G3_Wifi
+G4_BluetoothPairedDevice
+G5_MotionDetection
+G6_GetCallState1
+G7_PhoneCall
+G8_TelephonyManager
+G9_SendSMS
+G10_ReadSMS
+G11_ContactDetails
+G11_ReadContacts
+G12_CallLogRead
+G13_CallLogWrite
+G14_SendMail
+G15_TextToSpeech
+G16_Camera
+G17_CameraSave
+    
